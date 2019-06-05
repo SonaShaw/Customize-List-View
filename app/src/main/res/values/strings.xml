@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App34_CustomizeListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="animal_name">Name of Animal</string>
+</resources>
